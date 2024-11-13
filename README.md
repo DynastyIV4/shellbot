@@ -13,6 +13,7 @@ Exemples:
 - DDos IRC bot: https://pastebin.com/CJpxW5tx (and the file)
 - https://github.com/Shadow-Network/perl-scripts/blob/master/Stealth%20ShellBot%20Verson%200.2.pl
 - https://github.com/nikicat/web-malware-collection/tree/master
+- https://github.com/tennc/webshell/blob/master/xakep-shells/PERL/shellbot.pl.txt
 
 Various exploits:
 - https://github.com/AngelSecurityTeam/BotExploits/blob/cfee10c13f939752882ef070b3a9629b841382bd/File/0day/1.pl
