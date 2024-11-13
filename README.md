@@ -9,3 +9,7 @@ Reports:
 
 Exemples:
 - DDos IRC bot: https://pastebin.com/CJpxW5tx (and the file)
+- https://github.com/Shadow-Network/perl-scripts/blob/master/Stealth%20ShellBot%20Verson%200.2.pl
+
+Various exploits:
+- https://github.com/AngelSecurityTeam/BotExploits/blob/cfee10c13f939752882ef070b3a9629b841382bd/File/0day/1.pl
