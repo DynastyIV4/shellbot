@@ -6,6 +6,8 @@ VERY Useful:
 Reports:
 - https://labs.sucuri.net/signatures/malwares/pl-backdoor-shellbot-001/
 - Gitlab RCE Stealth shellbot https://brianstadnicki.github.io/posts/malware-gitlab-perlbot/
+- https://sysdig.com/blog/malware-analysis-shellbot-sysdig/
+- https://securityintelligence.com/posts/shellbot-publicly-available-cryptocurrency-miner/
 
 Exemples:
 - DDos IRC bot: https://pastebin.com/CJpxW5tx (and the file)
